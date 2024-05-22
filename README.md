@@ -1,1 +1,3 @@
 # MNIST_Training_With_No_Split
+
+使用自定义的数据类继承Dataset类，并且重写方法，通过代码来区分测试集与训练集
